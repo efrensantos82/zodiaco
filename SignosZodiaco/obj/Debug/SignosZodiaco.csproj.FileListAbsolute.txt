@@ -1,0 +1,5 @@
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\SignosZodiaco\SignosZodiaco\obj\Debug\SignosZodiaco.csprojResolveAssemblyReference.cache
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\SignosZodiaco\SignosZodiaco\bin\SignosZodiaco.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\SignosZodiaco\SignosZodiaco\bin\SignosZodiaco.pdb
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\SignosZodiaco\SignosZodiaco\obj\Debug\SignosZodiaco.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\SignosZodiaco\SignosZodiaco\obj\Debug\SignosZodiaco.pdb
